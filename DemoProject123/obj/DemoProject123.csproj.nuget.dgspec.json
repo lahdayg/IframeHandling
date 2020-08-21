@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grandma\\source\\repos\\DemoProject123\\DemoProject123\\DemoProject123.csproj": {}
+    "C:\\Users\\Grandma\\source\\repos\\Training\\IframeHandling\\DemoProject123\\DemoProject123.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grandma\\source\\repos\\DemoProject123\\DemoProject123\\DemoProject123.csproj": {
+    "C:\\Users\\Grandma\\source\\repos\\Training\\IframeHandling\\DemoProject123\\DemoProject123.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\DemoProject123\\DemoProject123\\DemoProject123.csproj",
+        "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\IframeHandling\\DemoProject123\\DemoProject123.csproj",
         "projectName": "DemoProject123",
-        "projectPath": "C:\\Users\\Grandma\\source\\repos\\DemoProject123\\DemoProject123\\DemoProject123.csproj",
+        "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\IframeHandling\\DemoProject123\\DemoProject123.csproj",
         "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grandma\\source\\repos\\DemoProject123\\DemoProject123\\obj\\",
+        "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\IframeHandling\\DemoProject123\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

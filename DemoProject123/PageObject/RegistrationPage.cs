@@ -81,6 +81,11 @@ namespace DemoProject123.PageObject
            // itemDescription.SendKeys("demo description");
         }
 
+        public void ChooseFile()
+        {
+            driver.FindElement(By.XPath("//*[@id='files']")).SendKeys("C:\\Users\\Grandma\\Pictures\\ch.jpg");
+        }
+
         public void EnterItemName()
         {
             itemName.SendKeys("testing");

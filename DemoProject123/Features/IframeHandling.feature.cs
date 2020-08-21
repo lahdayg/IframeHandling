@@ -127,6 +127,9 @@ this.ScenarioInitialize(scenarioInfo);
 #line 15
  testRunner.And("I enter item name", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
+#line 16
+ testRunner.And("I click on choose file", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
             }
             this.ScenarioCleanup();
         }

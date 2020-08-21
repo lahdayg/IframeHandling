@@ -13,4 +13,5 @@ Scenario: IFrame Handling
 	And I click on post item
 	And I enter item description
 	And I enter item name
+	And I click on choose file
 	#Then the result should be 120

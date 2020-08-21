@@ -133,6 +133,12 @@ namespace DemoProject123.StepDefinition
             registrationPage.EnterItemName();
         }
 
+        [When(@"I click on choose file")]
+        public void WhenIClickOnChooseFile()
+        {
+            registrationPage.ChooseFile();
+        }
+
 
 
     }
